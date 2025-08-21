@@ -72,7 +72,7 @@ An **interactive memory game** with increasing difficulty and polished interface
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anup-jha26&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anup-jha26&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anup-jha26&theme=tokyonight" height= "5rem" width="45%" />
 </p>
 
 <p align="center">
