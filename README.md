@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://camo.githubusercontent.com/0bcd77e56f5c1f6b4f5c83bff9b89f02d162c530e59a3c1f9e55a2ee8f46d90e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d466f6c6c6f772d666c6173682d6772616469656e742e7376673f7374796c653d666c61742d737175617265" alt="Banner" width="100%" />
-</p>
-
 # 👋 Hey, I'm Anup Kumar Jha  
 
 💻 **Full Stack Web Developer | MERN Stack Enthusiast**  
