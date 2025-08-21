@@ -86,5 +86,3 @@ An **interactive memory game** with increasing difficulty and polished interface
 <p align="center">
   🌐 <a href="https://anup-portfolio26.netlify.app/">Portfolio</a> | 💼 <a href="https://www.linkedin.com/in/anupjha26">LinkedIn</a> | 💻 <a href="https://github.com/anup-jha26">GitHub</a> | 📧 aniljha1076@gmail.com
 </p>
-
-> “Coding with clarity, building with creativity 💻✨”
