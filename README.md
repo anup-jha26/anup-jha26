@@ -1,23 +1,23 @@
 # 👋 Hey, I'm Anup Kumar Jha  
 
 💻 **Full Stack Web Developer | MERN Stack Enthusiast**  
-✨ I craft **scalable, user-friendly web apps** with clean code, intuitive UI/UX & optimized performance.  
+✨ Building **scalable, user-friendly apps** with clean code, sleek UI/UX & performance in mind.  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anup-jha26&color=blue)  
 
 ---
 
-## 🚀 About Me
-I transform **complex problems into elegant solutions**. My current focus:
+## 🚀 About Me  
+I love transforming **complex problems into elegant digital solutions**.  
 
-- 🔭 Developing **full-stack MERN applications**  
-- 🌱 Exploring **system design, cloud deployment & performance optimization**  
-- 💡 Improving **UI/UX, maintainable code & responsive designs**  
-- 🤝 Collaborating on **innovative and meaningful projects**  
+- 🔭 Currently developing **MERN stack applications**  
+- 🌱 Exploring **system design, cloud deployment & performance tuning**  
+- 🎨 Obsessed with **UI/UX, responsive design & maintainable code**  
+- 🤝 Always open to **collaboration on exciting projects**  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack  
 
 <p align="center">
   <!-- Frontend -->
@@ -34,55 +34,55 @@ I transform **complex problems into elegant solutions**. My current focus:
   <!-- Languages -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
+</p>  
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Projects  
 
 <div align="center">
 
-### 🏡 Wanderlust – Airbnb Clone
-**Stack:** MERN + Mapbox API  
-A scalable accommodation app with **authentication, image uploads, and interactive maps**.  
-
-[🌐 Live Demo](https://wanderlust-5w8k.onrender.com/listings) | [💻 Code](https://github.com/anup-jha26/Wanderlust)
+### 🏡 Wanderlust – Airbnb Clone  
+✨ MERN + Mapbox API → **authentication, image uploads & interactive maps**  
+[🌐 Live Demo](https://wanderlust-5w8k.onrender.com/listings) | [💻 Code](https://github.com/anup-jha26/Wanderlust)  
 
 ---
 
-### 🎬 YouTube Clone
-**Stack:** React + RapidAPI  
-A **responsive video streaming platform** with search and dynamic playback features.  
-
-[🌐 Live Demo](https://youtube-clone26.netlify.app/) | [💻 Code](https://github.com/anup-jha26/youtube-clone)
+### 🎬 YouTube Clone  
+⚡ React + RapidAPI → **responsive video streaming with dynamic search & playback**  
+[🌐 Live Demo](https://youtube-clone26.netlify.app/) | [💻 Code](https://github.com/anup-jha26/youtube-clone)  
 
 ---
 
-### 🎮 Simon Says Game
-**Stack:** Vanilla JS + HTML/CSS  
-An **interactive memory game** with increasing difficulty and polished interface.  
+### 🎮 Simon Says Game  
+🎲 Vanilla JS + HTML/CSS → **fun interactive memory game with difficulty scaling**  
+[🌐 Live Demo](https://simon-says-game26.netlify.app/) | [💻 Code](https://github.com/anup-jha26/simon-game)  
 
-[🌐 Live Demo](https://simon-says-game26.netlify.app/) | [💻 Code](https://github.com/anup-jha26/simon-game)
-
-</div>
+</div>  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anup-jha26&show_icons=true&theme=tokyonight" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anup-jha26&theme=tokyonight" width="45%" />
-</p>
+</p>  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anup-jha26&layout=compact&theme=tokyonight" width="45%" />
-</p>
+</p>  
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Connect  
 
 <p align="center">
   🌐 <a href="https://anup-portfolio26.netlify.app/">Portfolio</a> | 💼 <a href="https://www.linkedin.com/in/anupjha26">LinkedIn</a> | 💻 <a href="https://github.com/anup-jha26">GitHub</a> | 📧 aniljha1076@gmail.com
-</p>
+</p>  
+
+---
+
+<p align="center">  
+  ✨ *“Code with logic, design with heart, and build for impact.”* ✨  
+</p>  
