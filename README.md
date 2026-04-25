@@ -44,7 +44,7 @@ I love transforming **complex problems into elegant digital solutions**.
 
 ### 🏡 Wanderlust – Airbnb Clone  
 ✨ MERN + Mapbox API → **authentication, image uploads & interactive maps**  
-[🌐 Live Demo](https://wanderlust-5w8k.onrender.com/listings) | [💻 Code](https://github.com/anup-jha26/Wanderlust)  
+[🌐 Live Demo](https://wanderlust-vb8v.onrender.com/listings) | [💻 Code](https://github.com/anup-jha26/Wanderlust)  
 
 ---
 
