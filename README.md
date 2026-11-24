@@ -87,5 +87,5 @@ I love transforming **complex problems into elegant digital solutions**.
 ---
 
 <p align="center">  
-  ✨ *“Code with logic, design with heart, and build for impact.”* ✨  
+  ✨ “Code with logic, design with heart, and build for impact.” ✨  
 </p>  
